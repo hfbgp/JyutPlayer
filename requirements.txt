@@ -1,0 +1,4 @@
+PyQt6>=6.6.0
+python-mpv>=1.0.5
+pysubs2>=1.6.1
+pyinstaller>=6.5.0
